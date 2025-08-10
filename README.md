@@ -16,26 +16,18 @@
 ### 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ramakrishna-godha&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramakrishna-godha&theme=radical" alt="GitHub streak" width="48%" />
-</p>
-
----
-
-### 🌱 Recent Activity Graph
-[![Ramakrishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramakrishna-godha&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ### 💼 Featured Projects
 - **Netflix-Gpt with AI Search** — React, TMDB API, integrated GPT-based search for smarter movie discovery, lazy-loading.  
