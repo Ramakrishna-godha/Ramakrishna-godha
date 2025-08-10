@@ -37,8 +37,8 @@
 ---
 
 ### 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff5722?style=for-the-badge&logo=googlescholar&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rama-krishna-goda-8178a4280/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ramsportfolioo.netlify.app/)
 
 ---
 
